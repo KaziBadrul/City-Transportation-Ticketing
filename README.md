@@ -169,7 +169,7 @@ Tools: pgAdmin 4 / DBeaver
 
 Procedures: PL/pgSQL
 
-Future Backend (optional): NExpressJS
+Future Backend (optional): ExpressJS
 
 Frontend: NextJS
 
