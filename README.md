@@ -169,7 +169,9 @@ Tools: pgAdmin 4 / DBeaver
 
 Procedures: PL/pgSQL
 
-Future Backend (optional): Node.js / Django / Java
+Future Backend (optional): NExpressJS
+
+Frontend: NextJS
 
 ## 📈 11. Why PostgreSQL?
 
